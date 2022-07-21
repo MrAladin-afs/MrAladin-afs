@@ -7,7 +7,7 @@
 
 - 💙 I'm a FIveM Developer. I will make Server, Vehicles livery,Peds, EUP and Maps/buildings
 
-# Dev:
+# Developer at:
  1. Midnight Rolplay
  2. New life Rolplay
  3. Zoe world Rolplay
