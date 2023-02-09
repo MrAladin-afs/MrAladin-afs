@@ -20,7 +20,11 @@
 
  :). --more!!!
 
+## ❤ Views and Followers
 <a href="https://github.com/MrAladin-afs/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MrAladin-afs">
+</a>
+<a href="https://github.com/MrAladin-afs?tab=followers"><img src="https://img.shields.io/github/followers/FilonxTN?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 ### Connect with me:
