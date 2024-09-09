@@ -11,7 +11,7 @@
 # Developer at:
  1. NightMare Rolplay(LEAD DEV) my own RP Server
  2. New life Rolplay (LEAD DEV)
- 3. Zoe world Rolplay
+ 3. Zoe world Rolplay (LEAD DEV)
  4. Midnight Rolplay
  5. valocity RP
  6. Mafia Town RP
