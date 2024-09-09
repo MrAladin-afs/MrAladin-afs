@@ -25,8 +25,8 @@
 
 ### Connect with me:
 
-<a href="https://discord.gg/AVPEV9t695"><img align="left" alt="Aladin  | Discord" width="20px" src="https://cdn.discordapp.com/attachments/801797506739732500/938388119118561310/Discord-Logo.png" />
-  <a href="https://www.fiverr.com/alminlikhhon"><img align="left" alt="Aladin  | Fiverr" width="20px" src="https://media.discordapp.net/attachments/960524367643705395/978175378185150515/download.png" />
+<a href="https://discord.gg/AVPEV9t695"><img align="left" alt="Aladin  | Discord" width="20px" src="https://files.fivemerr.com/images/1a667f85-d47c-420e-a18a-5353936f7293.webp" />
+
 
 <br />
 
