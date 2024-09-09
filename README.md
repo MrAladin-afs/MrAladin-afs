@@ -9,13 +9,16 @@
 - 💙 I'm a FIveM Developer. I will make Server, Vehicles livery,Peds, EUP and Maps/buildings
 
 # Developer at:
- 1. NightMare Rolplay(LEAD DEV)
- 2. New life Rolplay(LEAD DEV)
+ 1. NightMare Rolplay(LEAD DEV) my own RP Server
+ 2. New life Rolplay (LEAD DEV)
  3. Zoe world Rolplay
  4. Midnight Rolplay
- 5. Black city
- 6. Mafia Town Roleplay 
- 7. Amjonota RP(LEAD DEV)
+ 5. valocity RP
+ 6. Mafia Town RP
+ 7. Skyline RP
+ 9. Black city
+ 10. Mafia Town Roleplay 
+ 11. Amjonota RP(LEAD DEV)
 
 
  :). --more!!!
