@@ -1,6 +1,6 @@
 ### Hlw there, Myself Aladin 👋
 
-[![Website](https://media.discordapp.net/attachments/960524367643705395/978171541856591892/company_contact.jpg)](https://discord.gg/AVPEV9t695)
+
 
 ## I'm a Gamer, Gaming is my life !
 ## Give me one cup coffee 😇 
