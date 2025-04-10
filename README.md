@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aladin 👋</h1>
 
 <p align="center">
-  🎮 Gamer | 👨‍💻 FIveM Developer | 🛒 Script Seller  
+  🎮 Gamer | 👨‍💻 FIveM Developer  
 </p>
 
 <p align="center">
