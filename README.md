@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aladin 👋</h1>
 
 <p align="center">
-  🎮 Gamer  | 👨‍💻 FIveM Developer  
+  🎮 Gamer | ☕ Coffee Lover | 👨‍💻 FIveM Developer  
 </p>
 
 <p align="center">
@@ -19,21 +19,31 @@
 
 ---
 
-## 🏗️ Developer At:
+## 🏗️ Developer At (Lead Dev):
 
-| Role | Server Name |
-|------|-------------|
-| 👑 Lead Dev | NightMare RP *(my own server)* |
-| 👑 Lead Dev | New Life RP |
-| 👑 Lead Dev | Zoe World RP |
-| 👨‍💻 Dev | Midnight RP |
-| 👨‍💻 Dev | Valocity RP |
-| 👨‍💻 Dev | Mafia Town RP |
-| 👨‍💻 Dev | Skyline RP |
-| 👨‍💻 Dev | Black City |
-| 👑 Lead Dev | Amjonota RP |
+| # | Server Name |
+|---|-------------|
+| 1 | NightMare RP *(my own server)* |
+| 2 | New Life RP |
+| 3 | Zoe World RP |
+| 4 | Amjonota RP |
+| 5 | Black Outside RP |
+| 6 | Liberty Hills RP |
+| 7 | Sinister RP |
 
-> :) ... and there's more to come!
+---
+
+## 👨‍💻 Developer At (Other Roles):
+
+| # | Server Name |
+|---|-------------|
+| 1 | Midnight RP |
+| 2 | Valocity RP |
+| 3 | Mafia Town RP |
+| 4 | Skyline RP |
+| 5 | Black City |
+
+> :) ... and there’s still more to come!
 
 ---
 
