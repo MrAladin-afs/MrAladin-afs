@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Aladin 👋</h1>
 
 <p align="center">
-  🎮 Gamer | ☕ Coffee Lover | 👨‍💻 FIveM Developer  
+  🎮 Gamer | 👨‍💻 FIveM Developer | 🛒 Script Seller  
 </p>
 
 <p align="center">
-  <a href="https://ko-fi.com/aladinafs">
-    <img src="https://img.shields.io/badge/Buy me a coffee-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" />
+  <a href="https://kryptonnscripts.store/">
+    <img src="https://img.shields.io/badge/Visit My Store-Krypton Scripts-FF5E5B?style=flat-square&logo=shopify&logoColor=white" />
   </a>
 </p>
 
