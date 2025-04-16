@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aladin 👋</h1>
+<h1 align="center">Hi there, I'm Al-Amin Likhon👋</h1>
 
 <p align="center">
   🎮 Gamer | 👨‍💻 FIveM Developer  
