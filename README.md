@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://kryptongame.com/">
-    <img src="https://img.shields.io/badge/Visit My Store-Krypton Scripts-FF5E5B?style=flat-square&logo=shopify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit My Store-Krypton Game-FF5E5B?style=flat-square&logo=shopify&logoColor=white" />
   </a>
 </p>
 
